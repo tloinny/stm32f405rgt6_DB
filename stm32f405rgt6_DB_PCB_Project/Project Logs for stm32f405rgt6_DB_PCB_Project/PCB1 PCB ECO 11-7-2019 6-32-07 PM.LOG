@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=X2-1
+Removed Pin From Net: NetName=NetC5_1 Pin=X2-2
+Change Component DesignItemId : Designator=X2 Old DesignItemId=XTAL-2P New DesignItemId=XTAL-4P
+Change Component Footprint: Designator=X2 Old Footprint=OSC 5032-2P New Footprint=OSC 3225-4P
+Added Pin To Net: NetName=NetC5_1 Pin=X2-1
+Added Pin To Net: NetName=NetC4_2 Pin=X2-3
+Added Room: Name=stm32f405rgt6_DB_Sheet

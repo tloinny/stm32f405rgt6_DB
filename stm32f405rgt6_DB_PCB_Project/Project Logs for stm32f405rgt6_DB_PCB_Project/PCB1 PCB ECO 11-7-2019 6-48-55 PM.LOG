@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C11 Old Footprint=Cap-0603-M New Footprint=Cap-0603
+Change Component Footprint: Designator=C12 Old Footprint=Cap-0603-M New Footprint=Cap-0603
+Added Room: Name=stm32f405rgt6_DB_Sheet

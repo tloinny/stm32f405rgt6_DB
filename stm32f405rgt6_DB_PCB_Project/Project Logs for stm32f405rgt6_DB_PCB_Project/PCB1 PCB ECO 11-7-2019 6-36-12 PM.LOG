@@ -1,0 +1,5 @@
+Added Component: Designator=X1(OSC 3225-4P)
+Added Pin To Net: NetName=NetC6_1 Pin=X1-1
+Added Pin To Net: NetName=NetC7_2 Pin=X1-3
+Added Member To Class: ClassName=stm32f405rgt6_DB_Sheet Member=Component X1 8M
+Added Room: Name=stm32f405rgt6_DB_Sheet

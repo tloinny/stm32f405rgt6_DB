@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VCC Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Room: Name=stm32f405rgt6_DB_Sheet

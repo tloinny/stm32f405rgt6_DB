@@ -1,0 +1,8 @@
+Added Component: Designator=U3(SOP8)
+Added Pin To Net: NetName=FLASH_CS Pin=U3-1
+Added Pin To Net: NetName=FLASH_MISO Pin=U3-2
+Added Pin To Net: NetName=3.3V Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=3.3V Pin=U3-7
+Added Pin To Net: NetName=3.3V Pin=U3-8
+Added Member To Class: ClassName=stm32f405rgt6_DB_Sheet Member=Component U3 25Q16CTIG

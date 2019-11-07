@@ -1,0 +1,6 @@
+Added Component: Designator=U2(SOT89)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Member To Class: ClassName=stm32f405rgt6_DB_Sheet Member=Component U2 AMS1117
